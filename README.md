@@ -1,0 +1,1 @@
+# FrontendMentor-qrcode-component
